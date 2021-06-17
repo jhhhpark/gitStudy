@@ -35,6 +35,6 @@ build/
 doc/*.txt
 
 #doc 디렉터리 아래의 모든 .pdf 파일을 무시
-/doc
+doc/**/.pdf
 
 
